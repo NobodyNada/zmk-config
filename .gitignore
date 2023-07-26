@@ -1,0 +1,6 @@
+/.west/
+/build/
+*.uf2
+/modules/
+/zephyr/
+/zmk/
