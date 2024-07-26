@@ -28,7 +28,7 @@
         &mt LEFT_SHIFT A &kp S      &kp D      &lt L_NAV F  &kp G           &kp H       &kp J       &kp K       &kp L       &mt LEFT_SHIFT SEMICOLON 
         //├──-────────┼──-────────┼─-─────────┼────-──────┼─────-─────┤   ├──────-────┼────-──────┼────-──────┼─────-─────┼──-────────┤
         //│   /       │   Z       │   X       │   C       │   V       │   │   B       │   N       │   M       │  , <      │  . >      │
-            &kp SLASH   &mt LEFT_CONTROL Z &mt LEFT_ALT X &kp C &kp V       &lt L_FUNCTION B &lt L_MEDIA N &mt LEFT_ALT M &mt LEFT_CONTROL COMMA &kp DOT
+            &mt RIGHT_GUI SLASH   &mt LEFT_CONTROL Z &mt LEFT_ALT X &kp C &kp V       &lt L_FUNCTION B &lt L_MEDIA N &mt LEFT_ALT M &mt LEFT_CONTROL COMMA &kp RIGHT_GUI
         //╰──────-────┴────────-──┴─────-─────┼───-───────┼─────-─────┤   ├────-──────┼────-──────┼─────-─────┴──────-────┴───-───────╯
                                            &mt LEFT_GUI ESCAPE &kp BACKSPACE &lt L_NUMERIC SPACE &lt L_SYMBOL ENTER
         //                                    ╰─────────-─┴────────-──╯   ╰────────-──┴─────────-─╯
