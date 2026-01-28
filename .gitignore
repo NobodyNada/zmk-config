@@ -1,6 +1,7 @@
 /.west/
 /build/
 *.uf2
+/optional/
 /modules/
 /zephyr/
 /zmk/

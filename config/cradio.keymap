@@ -41,10 +41,10 @@
           &bootloader &bt BT_SEL 0 &bt BT_SEL 1 &bt BT_SEL 2 &out OUT_TOG   &kp HOME    &kp PAGE_DOWN &kp PAGE_UP &kp END   &trans
         //├──-────────┼──-────────┼─-─────────┼────-──────┼─────-─────┤   ├──────-────┼────-──────┼────-──────┼─────-─────┼──-────────┤
         //│   A       │   S       │   D       │   F       │   G       │   │   H       │   J       │   K       │   L       │  ;        │
-            &trans      &trans      &trans      &trans      &bt BT_CLR      &kp LEFT    &kp DOWN    &kp UP      &kp RIGHT   &trans
+            &trans    &bt BT_SEL 4 &bt BT_SEL 3 &trans       &trans         &kp LEFT    &kp DOWN    &kp UP      &kp RIGHT   &trans
         //├──-────────┼──-────────┼─-─────────┼────-──────┼─────-─────┤   ├──────-────┼────-──────┼────-──────┼─────-─────┼──-────────┤
         //│   /       │   Z       │   X       │   C       │   V       │   │   B       │   N       │   M       │  , <      │  . >      │
-            &trans      &trans      &trans      &trans      &trans          &kp GRAVE &kp SINGLE_QUOTE &kp DQT  &trans      &trans
+            &trans      &trans      &trans      &trans      &bt BT_CLR      &kp GRAVE &kp SINGLE_QUOTE &kp DQT  &trans      &trans
         //╰──────-────┴────────-──┴─────-─────┼───-───────┼─────-─────┤   ├────-──────┼────-──────┼─────-─────┴──────-────┴───-───────╯
                                                 &trans      &trans          &kp LS(TAB) &kp TAB
         //                                    ╰─────────-─┴────────-──╯   ╰────────-──┴─────────-─╯
